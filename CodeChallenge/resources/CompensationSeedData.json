@@ -1,0 +1,14 @@
+[
+    {
+        "compensationId": "b7839309-3348-463b-a7e3-5de1c168beb3",
+        "employee": {
+            "employeeId": "b7839309-3348-463b-a7e3-5de1c168beb3",
+            "firstName": "Paul",
+            "lastName": "McCartney",
+            "position": "Developer I",
+            "department": "Engineering"
+        },
+        "salary": "100000",
+        "effectiveDate": "11/22/2022"
+    }
+]
